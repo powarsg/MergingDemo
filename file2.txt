@@ -1,1 +1,3 @@
 file2 - initial commit
+
+Feature 2 - First commit
